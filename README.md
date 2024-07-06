@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @sachinkmr57
-- 👀 I’m interested in iOS, Game dev
-- 🌱 I’m currently learning iOS, arch, design patterns
-- 💞️ I’m looking to collaborate on open source projects related to game dev preferrably mobile games
+- 👀 I’m interested in iOS, Game dev, 3D, and design
 - 📫 How to reach me - sachinkmr571@gmail.com
 
 <!---
