@@ -1,5 +1,5 @@
 ## Kumar Sachin
-[![iOS](https://badgen.net/badge/Work/iOS/orange?icon=apple)](./iOS) [![hobby](https://badgen.net/badge/Hobby/game-dev/blue?icon=awesome)](./hobby) [![hobby](https://badgen.net/badge/Hobby/3D/purple?icon=awesome)](./hobby) [![hobby](https://badgen.net/badge/Hobby/Design/cyan?icon=awesome)](./hobby)
+iOS | Game Dev | 3D | Design
 
 📫 zvyom1@gmail.com
 
