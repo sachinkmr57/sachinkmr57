@@ -1,6 +1,10 @@
-- 👋 Hi, I’m Kumar Sachin
-- 👀 I’m interested in iOS, Game dev, 3D, and design
-- 📫 How to reach me - zvyom1@gmail.com
+### Kumar Sachin
+[![iOS](https://badgen.net/badge/Work/iOS/orange?icon=apple)](./iOS)
+[![hobby](https://badgen.net/badge/Hobby/game-dev/blue?icon=awesome)](./hobby)
+[![hobby](https://badgen.net/badge/Hobby/3D/purple?icon=awesome)](./hobby)
+[![hobby](https://badgen.net/badge/Hobby/Design/green?icon=awesome)](./hobby)
+
+📫 zvyom1@gmail.com
 
 <!---
 sachinkmr57/sachinkmr57 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
